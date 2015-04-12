@@ -8,10 +8,11 @@ In all cases, Gabriel needs the area to be divisible by X. Furthermore:
 - For X=3, a 1-stripe won't do because Richard could use the L-shape.
 - For X=4, a 2-stripe won't do because Richard could use the T-shape.
 - For X=5, a 2-stripe won't do because Richard could use the W-shape.
-  The W-shape also beats a 5*3 field.
+  The W-shape also beats a 5*3 grid.
 - For X=6, a 3-stripe won't do because Richard could use the T-shape
   that's a horizontal four cells plus vertical two cells under it.
-You can check that in all larger cases, Gabriel wins. Possible pieces:
+You can check that in all larger grids, Gabriel indeed wins.
+Possible pieces:
 http://en.wikipedia.org/wiki/Pentomino
 http://en.wikipedia.org/wiki/Hexomino
 '''
